@@ -21,7 +21,7 @@ syntaxHighlighter: no
 > ### Q：棒球比赛中获得的荣誉，印象最深刻的瞬间？
 > - 还没有
 
-![3U7A1875](../assets/images/3U7A1875.JPG)  
+![棒球](../assets/images/3U7A1875.JPG)  
 
 
 
