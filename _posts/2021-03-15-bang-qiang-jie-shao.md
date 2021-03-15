@@ -2,7 +2,7 @@
 layout: post
 title:  "强棒天使基地"
 image:
-  feature: screenshot-20210315-125538.png
+  feature: image.png
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -21,5 +21,5 @@ syntaxHighlighter: no
 
 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}screenshot-20210315-125538.png);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}image.png);"></div>
 
