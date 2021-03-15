@@ -1,9 +1,9 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/my-2nd-web'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
-baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
-baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
-baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
+baseurl_posts_img: '/my-2nd-web/assets/images/posts/'
+baseurl_featured_img: '/my-2nd-web/assets/images/hero/'
+baseurl_featured_thumbnail: '/my-2nd-web/assets/images/thumbnail/'
+baseurl_javascripts: '/my-2nd-web/assets/javascripts/'
 
 # 网页的标题
 title: "⚾️强棒少女的陪伴日记"
