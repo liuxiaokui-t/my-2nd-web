@@ -2,7 +2,7 @@
 layout: post
 title:  "我是海来尔子"
 image:
-  feature: 笑容.jpg
+  feature: 笑容.JPG
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
