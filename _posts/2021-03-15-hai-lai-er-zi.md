@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "我是海来尔子"
+title:  "故事 · MIT女孩：不再担心，像个女孩一样爱上编程"
 image:
-  feature: ss.jpg
+  feature: 100.jpg
   topPosition: -256px
 bgContrast: dark
 bgGradientOpacity: darker
