@@ -2,8 +2,8 @@
 layout: post
 title:  "我是海来尔子"
 image:
-  feature: ss.jpg
-  topPosition: 0px
+  feature: ss.JPG
+  topPosition: -256px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
