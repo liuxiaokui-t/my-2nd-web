@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我是海来尔子"
+title:  "hi~我是海来尔子，很高兴认识你"
 image:
   feature: ss.JPG
   topPosition: -256px
@@ -10,7 +10,7 @@ syntaxHighlighter: no
 ---
 
 
-_作者 : t_  
+_作者 : 海来尔子_  
 
 > * 我是海来尔子，出生于2011.8.3。
 > * 我是2019年12月加入强棒基地的，已经学习棒4个月啦~
